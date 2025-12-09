@@ -53,14 +53,10 @@ git commit -m "Add personal information of ...".
 - "Add": Füge das Folgende dem nächsten Commit hinzu
 - "Commit": Erstelle einen Commit mit allen geaddeten Änderungen
 
-Öffne dann `projekt.md` und ergänze den Absatz über Herausforderungen
-und committe ebenso
-
-```bash
-git add projekt.md
-
-git commit -m "Add project information"
-```
+Öffne dann `projekt.md`, ergänze den Absatz über Herausforderungen
+und schaue dir jetzt den Status mit `git status` an. Die Minus- und
+Pluszeilen zeigen die Veränderung von der alten Version zur jetzigen.
+Das nennt man einen *"Diff"*. Adde und committe deine Änderungen.
 
 Anschließend kannst du mit 
 
