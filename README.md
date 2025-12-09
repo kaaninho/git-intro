@@ -143,3 +143,26 @@ Sourcetree ist ein grafisches Programm, das einem Git-Handling erleichtert.
 Hier kannst du committen, pushen, pullen, klonen, ohne ein Terminal
 verwenden zu müssen. Zudem gibt es eine schöne *Graph-Ansicht* der
 Commits/Historie und die Diffs sehen besser aus!
+
+Schauen wir uns gemeinsam an.
+
+### Merge
+
+Nun ändert ihr gleichzeitig an derselben Datei etwas: Eine von euch
+ändert die Abteilung, die andere ändert die Position. Nun committet
+und pusht beide - bei einer wirds nicht klappen! (wieso?)
+
+Die Zweite muss nun zuerst die neuesten Änderungen bei sich
+integrieren (in Git sagt man dazu *"mergen"*). `git pull` macht das
+automatisch für einen. danach sollte ein `git push` wieder
+funktionieren.
+
+#### Merge-Konflikte
+
+Manche Änderungen kann Git nicht automatisch "reparieren" bzw. mergen.
+Dann kommt es zu einem Merge-Konflikt.
+
+Ändert wieder beide dieselbe Datei: Dieses Mal dieselbe Zeile (z. B.
+den Namen), und versucht zu committen + pushen.
+
+Behebt anschließend den Merge-Konflikt gemeinsam.
