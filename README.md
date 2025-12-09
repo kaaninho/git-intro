@@ -119,3 +119,11 @@ erstellen und pushen. Hole dann zu deinem lokalen Repo die Änderungen
 mit `git pull`.
 
 #### Push
+
+Bitte deine Nachbarin, dich ihrem Team in Github hinzuzufügen, sodass
+du auch pushen kannst (Settings -> Collaborators).
+
+Ergänze bei ihr im `personal.md`-Dokument ihre E-Mail-Adresse,
+committe und pushe das Ergebnis. Lasse sie wiederum die Änderungen
+holen.
+
