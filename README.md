@@ -127,3 +127,10 @@ Ergänze bei ihr im `personal.md`-Dokument ihre E-Mail-Adresse,
 committe und pushe das Ergebnis. Lasse sie wiederum die Änderungen
 holen.
 
+## Sourcetree
+
+Sourcetree ist ein grafisches Programm, das einem Git-Handling erleichtert.
+
+Hier kannst du committen, pushen, pullen, klonen, ohne ein Terminal
+verwenden zu müssen. Zudem gibt es eine schöne *Graph-Ansicht* der
+Commits/Historie und die Diffs sehen besser aus!
