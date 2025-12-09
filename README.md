@@ -119,7 +119,8 @@ Repo zu ziehen, benutze `git pull`.
 
 Aufgabe 1: Sage deiner Nachbarin, sie soll einen neuen Commit
 erstellen und pushen. Hole dann zu deinem lokalen Repo die Änderungen
-mit `git pull`.
+mit `git pull`. Schaue dann nach, ob die Änderungen nun auch bei dir
+lokal vorhanden sind.
 
 #### Push
 
