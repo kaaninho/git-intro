@@ -8,8 +8,11 @@ Arbeite Schritt für Schritt die Aufgaben durch.
 
 ## Vorarbeit
 
-- Installiere Git
-- Installiere Sourcetree
+1. Installiere Git
+2. Installiere Sourcetree
+3. Erstelle dir einen Github-Account
+4. Erstelle dir ein SSH-Schlüsselpaar (private und public Key)
+   - lade deinen public Key in deinen Github-Account hoch
 
 ## Übungen
 
@@ -126,6 +129,11 @@ du auch pushen kannst (Settings -> Collaborators).
 Ergänze bei ihr im `personal.md`-Dokument ihre E-Mail-Adresse,
 committe und pushe das Ergebnis. Lasse sie wiederum die Änderungen
 holen.
+
+#### Merge - und Merge-Konflikte
+
+ist leichter mit einer grafischen Oberfläche zu bearbeiten, daher:
+Wechsel zu Sourcetree.
 
 ## Sourcetree
 
