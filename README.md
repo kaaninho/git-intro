@@ -8,10 +8,12 @@ Arbeite Schritt für Schritt die Aufgaben durch.
 
 ## Vorarbeit
 
-1. Installiere Git
-2. Installiere Sourcetree
-3. Erstelle dir einen Github-Account
-4. Erstelle dir ein SSH-Schlüsselpaar (private und public Key)
+1. Installiere Git: https://git-scm.com
+2. Installiere Sourcetree: https://www.sourcetreeapp.com
+3. Erstelle dir einen Github-Account: https://github.com
+4. Erstelle dir ein SSH-Schlüsselpaar (private und public Key) falls
+   du nicht schon eins hast
+   - https://docs.github.com/de/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
    - lade deinen public Key in deinen Github-Account hoch
 
 ## Übungen
