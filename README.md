@@ -162,7 +162,7 @@ funktionieren.
 #### Merge-Konflikte
 
 Manche Änderungen kann Git nicht automatisch "reparieren" bzw. mergen.
-Dann kommt es zu einem Merge-Konflikt.
+Dann kommt es zu einem Merge-Konflikt. Das wollen wir jetzt ansehen:
 
 Ändert wieder beide dieselbe Datei: Dieses Mal dieselbe Zeile (z. B.
 den Namen), und versucht zu committen + pushen.
